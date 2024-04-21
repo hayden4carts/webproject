@@ -1,0 +1,59 @@
+/*
+  white: #FFFFFF
+  (accent 1) dark red: #730202
+  (accent 2) dark teal: #027373
+*/
+
+h1, h2 {
+  color: #730202;
+}
+
+h1 {
+  text-align: center;
+}
+
+th, td {
+  border: #027373 solid 3px;
+  padding: 19px 19px 19px 19px;
+}
+
+table {
+  border-collapse: collapse;
+/*  margin-left: auto;
+  margin-right: auto;*/
+}
+
+a {
+  color: #730202;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #027373;
+}
+
+p.textcontent {
+  background-color: #730202;
+  color: #FFFFFF;
+  width: 200px;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border: #027373 dashed 3px;
+  margin: auto;
+}
+
+div {
+  background-color: #730202;
+  width: 646px;
+  padding: 50px;
+  border: #027373 double 3px;
+  margin: auto;
+}
+
+body {
+  padding: 25px 25px 25px 25px;
+  font-size: 1.3em;
+}
