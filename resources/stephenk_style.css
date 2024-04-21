@@ -1,0 +1,47 @@
+/*
+  blue: #4F4FF7
+  light purple: #BD4FF7
+  light blue: #87CEEB
+  navy blue: #000080
+*/
+
+body {
+  background-color: #87CEEB;
+  padding: 0 25px 30px 25px;
+}
+
+a {
+  color: #4F4FF7;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #BD4FF7;
+}
+
+h1, h2 {
+  color: #000080;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.picture {
+  text-align: center;
+}
+
+p, li, table {
+  font-size: 1.3em;
+}
+
+th, td {
+  border: #468BA6 solid 4px;
+  padding: 10px 17px 10px 15px;
+}
+
+table {
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
